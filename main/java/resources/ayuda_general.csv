@@ -1,0 +1,50 @@
+No se que poner,
+1,2024-01-16 10:30:00,admin,consulta,Realizó consulta de datos del sistema
+2,2024-01-16 11:15:00,user_A,modificacion,Modificó la configuración de perfil
+3,2024-01-16 12:00:00,user_B,creacion,Creación de nuevo proyecto en la plataforma
+4,2024-01-16 12:45:00,admin,consulta,Acceso a informes de rendimiento mensual
+5,2024-01-16 13:30:00,user_C,eliminacion,Eliminación de registros obsoletos de la base de datos
+6,2024-01-16 14:15:00,user_A,modificacion,Actualización de contraseñas de usuario
+7,2024-01-16 15:00:00,user_D,creacion,Creación de copias de seguridad automáticas
+8,2024-01-16 15:45:00,user_B,consulta,Consulta de registros de actividad reciente
+9,2024-01-16 16:30:00,admin,modificacion,Modificación de permisos de administrador
+10,2024-01-16 17:15:00,user_C,eliminacion,Eliminación de datos duplicados en el sistema
+11,2024-01-16 18:00:00,user_A,creacion,Creación de informe de ventas trimestral
+12,2024-01-16 18:45:00,user_D,consulta,Consulta de historial de transacciones
+13,2024-01-16 19:30:00,user_B,modificacion,Actualización de datos de clientes
+14,2024-01-16 20:15:00,admin,eliminacion,Eliminación de registros no válidos
+15,2024-01-16 21:00:00,user_C,creacion,Creación de nuevas funcionalidades en la plataforma
+16,2024-01-16 21:45:00,user_A,consulta,Consulta de registros de errores del sistema
+17,2024-01-16 22:30:00,user_D,modificacion,Modificación de configuración de seguridad
+18,2024-01-16 23:15:00,admin,eliminacion,Eliminación de datos sensibles
+19,2024-01-17 00:00:00,user_B,creacion,Creación de informe de gastos mensual
+20,2024-01-17 01:30:00,user_C,consulta,Consulta de estadísticas de usuarios activos
+21,2024-01-17 02:15:00,user_A,modificacion,Actualización de interfaz de usuario
+22,2024-01-17 03:00:00,user_D,eliminacion,Eliminación de registros de prueba
+23,2024-01-17 03:45:00,admin,creacion,Creación de nuevas categorías de productos
+24,2024-01-17 04:30:00,user_B,consulta,Consulta de registros de actividad del sistema
+25,2024-01-17 05:15:00,user_C,modificacion,Modificación de reglas de procesamiento de datos
+26,2024-01-17 06:00:00,user_A,eliminacion,Eliminación de archivos temporales
+27,2024-01-17 06:45:00,user_D,creacion,Creación de informe de incidentes de seguridad
+28,2024-01-17 07:30:00,admin,consulta,Consulta de información de inventario
+29,2024-01-17 08:15:00,user_B,modificacion,Actualización de políticas de privacidad
+30,2024-01-17 09:00:00,user_C,eliminacion,Eliminación de registros de acceso no autorizado
+31,2024-01-17 09:45:00,user_A,creacion,Creación de nuevas plantillas de correo electrónico
+32,2024-01-17 10:30:00,user_D,consulta,Consulta de informe de ingresos
+33,2024-01-17 11:15:00,admin,modificacion,Modificación de parámetros de rendimiento
+34,2024-01-17 12:00:00,user_B,eliminacion,Eliminación de datos de prueba
+35,2024-01-17 12:45:00,user_C,creacion,Creación de informe de calidad del servicio
+36,2024-01-17 13:30:00,user_A,consulta,Consulta de registros de clientes destacados
+37,2024-01-17 14:15:00,user_D,modificacion,Actualización de información de proveedores
+38,2024-01-17 15:00:00,admin,eliminacion,Eliminación de registros de transacciones duplicadas
+39,2024-01-17 15:45:00,user_B,creacion,Creación de informe de incidencias de soporte
+40,2024-01-17 16:30:00,user_C,consulta,Consulta de registros de problemas del sistema
+41,2024-01-17 17:15:00,user_A,modificacion,Modificación de reglas de validación de datos
+42,2024-01-17 18:00:00,user_D,eliminacion,Eliminación de registros de mantenimiento
+43,2024-01-17 18:45:00,admin,creacion,Creación de informe de progreso del proyecto
+44,2024-01-17 19:30:00,user_B,consulta,Consulta de informe de satisfacción del cliente
+45,2024-01-17 20:15:00,user_C,modificacion,Actualización de configuración de notificaciones
+46,2024-01-17 21:00:00,user_A,eliminacion,Eliminación de registros de logs antiguos
+47,2024-01-17 21:45:00,user_D,creacion,Creación de informe de incidentes de seguridad
+48,2024-01-17 22:30:00,admin,consulta,Consulta de registros de eventos especiales
+49,2024-01-17 23:15:00,user_B,modificacion,Modificación de reglas de acceso
